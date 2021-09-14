@@ -1,6 +1,5 @@
 ## Voice powered Budget Tracker
 
-# demo
-https://voice-budget-tracker.netlify.app/
+### demo: https://voice-budget-tracker.netlify.app/
 
-# Screenshots
+### Screenshots
